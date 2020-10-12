@@ -6,18 +6,6 @@ The datasets contain information about 3 big and interrelated blocks, namely the
 
 We are asked to get interesting insights from the data that can be informative to clients, which can be either the restaurant holders, the customers or the platform holders.
 
-
-## For whom?
-
-- [ ] Restaurants
-- [ ] Customers
-- [ ] Food on the go platform
-
-
-## What? To be answered after brainstorming!
-
-## Actions? To be answered after brainstorming!
-
 ___
 
 ## Tasks identification and distribution
@@ -43,6 +31,22 @@ ___
 
 7. Explore data visualization options
    7.1. Draw.io **Will work on it: Opap's / Orhan / Sara**
+
+___
+
+## For whom?
+
+- [ ] Restaurants
+- [ ] Customers
+- [ ] Food on the go platform
+
+
+## What? To be answered after brainstorming!
+
+## Actions? To be answered after brainstorming!
+
+___
+
 ___
 ## Brainstorming
 
