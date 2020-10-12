@@ -42,8 +42,8 @@ ___
    5.1. Question 1 .... **Will work on it: Opap's / Orhan / Sara**
 
    5.2. Question 2 .... **Will work on it: Opap's / Orhan / Sara**
-
-6. Decide a data mode visualization for each answer to each question
+   
+6. Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question
 
 7. Explore data visualization options
    7.1. Draw.io **Will work on it: Opap's / Orhan / Sara**
