@@ -14,12 +14,36 @@ We are asked to get interesting insights from the data that can be informative t
 - [ ] Food on the go platform
 
 
-## What?
+## What? To be answered after brainstorming!
 
-## Actions?
+## Actions? To be answered after brainstorming!
 
 ___
 
+## Tasks identification and distribution
+
+1. Set the data
+2. Explore the data quality
+   - Is it clean (e.g., no null values?)
+   - Are objects correctly typed?
+
+3. Setting Power BI:    **Will work on it: Opap's ?**
+
+   - Set the data in the desktop version and share it with those using only the online version (see planning)
+   
+4. Write down the questions and the analysis that we will perform (after the brainstorming session; see planning)
+
+5. List of questions and analysis:
+
+   5.1. Question 1 .... **Will work on it: Opap's / Orhan / Sara**
+
+   5.2. Question 2 .... **Will work on it: Opap's / Orhan / Sara**
+
+6. Decide a data mode visualization for each answer to each question
+
+7. Explore data visualization options
+   7.1. Draw.io **Will work on it: Opap's / Orhan / Sara**
+___
 ## Brainstorming
 
 ### TABLES
