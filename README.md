@@ -32,10 +32,10 @@ ___
 - [ ] Setting Power BI:    
 
    - [x] Set the data in the desktop version and share it with those using only the online version (see planning).  Works on it: **Orhan**
-   - [ ] Explore the data: variable values (quantitative and qualitative), first groupings, first descriptions. Works on it: **Orhan**
-   - [ ] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
+   - [x] Explore the data: variable values (quantitative and qualitative), first groupings, first descriptions. Works on it: **Orhan**
+   - [x] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
    
-- [ ] Write down the questions and the analysis that we will perform (after the brainstorming session; see brainstorming). Works on it: **Sara**
+- [x] Write down the questions and the analysis that we will perform (after the brainstorming session; see brainstorming). Works on it: **Sara**
 
 - [ ] List of questions and analysis. See [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
 
