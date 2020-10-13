@@ -27,13 +27,21 @@ Questions from 1 to 2 can be analysed from a **top-down approach**, so we'll hav
 - cities
 - if relevant, streets.
 
+**Result of step1: gold time slot for global and city perspective.**
+
 ##### STEP 2
 
 Now that we have the information about the best moment for orderings, we could go further into Restaurant and Customers characteristics. 
 
-**For restaurants**
+**Customers**
 
-- 
+- Characterise curstomers in this gold time slot: age, gender, (language?), allergies (quantity and severity)
+
+**Restaurants**
+
+- Characterise restaurants: items that are more ordered and price.
+- Identify the restaurants that are closed in the **gold time slot**.
+
 
 
 ___
