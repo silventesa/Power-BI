@@ -12,7 +12,7 @@ ___
 
 - [ ] Restaurants
 - [ ] Customers
-- [ ] Food on the go platform
+- [x] Food on the go platform
 
 
 ## What? 
@@ -26,25 +26,25 @@ ___
 
 ## Tasks identification and distribution
 
-1. Set the data
-2. Explore the data quality
-   - Is it clean (e.g., no null values?)
-   - Are objects correctly typed?
+-[x] Explore the data quality. Works on it: **Sara**
+   - Is it clean (e.g., no null values?) 
 
-3. Setting Power BI:    **Will work on it: Opap's ?**
+-[ ] Setting Power BI:    
 
-   - Set the data in the desktop version and share it with those using only the online version (see planning)
+   -[x] Set the data in the desktop version and share it with those using only the online version (see planning).  Works on it: **Orhan**
+   -[ ] Explore the data: variable values (quantitative and qualitative), first groupings, first descriptions. Works on it: **Orhan**
+   -[ ] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
    
-4. Write down the questions and the analysis that we will perform (after the brainstorming session; see planning)
+-[ ] Write down the questions and the analysis that we will perform (after the brainstorming session; see brainstorming). Works on it: **Sara**
 
-5. List of questions and analysis:
+-[ ] List of questions and analysis. See [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
 
-   5.1. Question 1 .... **Will work on it: Opap's / Orhan / Sara**
+   - Question 1 .... **Will work on it: Opap's / Orhan / Sara**
 
-   5.2. Question 2 .... **Will work on it: Opap's / Orhan / Sara**
+   - Question 2 .... **Will work on it: Opap's / Orhan / Sara**
    
-6. Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question
+-[ ] Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question
 
-7. Explore data visualization options
-   7.1. Draw.io **Will work on it: Opap's / Orhan / Sara**
+-[ ] Explore data visualization options
+   - Draw.io **Works on it: Sara**
 ___
