@@ -16,10 +16,10 @@ ___
 
 
 ## What? 
-To be answered after brainstorming!
+To be answered after [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
 
 ## Actions? 
-To be answered after brainstorming!
+To be answered after [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
 
 ___
 
