@@ -22,15 +22,7 @@ To fill the sentence, we need first to identify:
   
     2.2. _What is the total price of orderings made at this time slot?_ Total price of ordering. Get mean and std.
 
-Here, it could be interesting to see if the moments with the highest amount of orderings are equivalent to the moments in which more wealth is created (more items are ordered = more money is gained). For this, the questions would be:
-
-3. _At which time slot **more items** are ordered in this time slot?_ 
-
-    3.1 _In how many orderings are these items distributed?_
-  
-    3.2 _What is the price of the items ordered at this time slot?_ Get mean of item price.
-
-Questions from 1 to 3 can be analysed from a **top-down approach**, so we'll have data for:
+Questions from 1 to 2 can be analysed from a **top-down approach**, so we'll have data for:
 - global/ general
 - cities
 - if relevant, streets.
