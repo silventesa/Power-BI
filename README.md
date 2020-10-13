@@ -26,25 +26,25 @@ ___
 
 ## Tasks identification and distribution
 
--[x] Explore the data quality. Works on it: **Sara**
+- [x] Explore the data quality. Works on it: **Sara**
    - Is it clean (e.g., no null values?) 
 
--[ ] Setting Power BI:    
+- [ ] Setting Power BI:    
 
-   -[x] Set the data in the desktop version and share it with those using only the online version (see planning).  Works on it: **Orhan**
-   -[ ] Explore the data: variable values (quantitative and qualitative), first groupings, first descriptions. Works on it: **Orhan**
-   -[ ] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
+   - [x] Set the data in the desktop version and share it with those using only the online version (see planning).  Works on it: **Orhan**
+   - [ ] Explore the data: variable values (quantitative and qualitative), first groupings, first descriptions. Works on it: **Orhan**
+   - [ ] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
    
--[ ] Write down the questions and the analysis that we will perform (after the brainstorming session; see brainstorming). Works on it: **Sara**
+- [ ] Write down the questions and the analysis that we will perform (after the brainstorming session; see brainstorming). Works on it: **Sara**
 
--[ ] List of questions and analysis. See [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
+- [ ] List of questions and analysis. See [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
 
    - Question 1 .... **Will work on it: Opap's / Orhan / Sara**
 
    - Question 2 .... **Will work on it: Opap's / Orhan / Sara**
    
--[ ] Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question
+- [ ] Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question
 
--[ ] Explore data visualization options
+- [ ] Explore data visualization options
    - Draw.io **Works on it: Sara**
 ___
