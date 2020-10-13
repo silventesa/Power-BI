@@ -14,9 +14,9 @@ _The pick of orderings happened on (day of the week) between (hour) and (hour) a
 
 To fill the sentence, we need first to identify:
 
-1. _Which are the days (Mo-Sun) with highest amount of orderings?_
+1. _Which are the days (Mo-Sun) with highest amount of orderings?_ **Works on it: Opap's**
 
-2. _At which time slot **more orderings** are made?_ ORDER table: ID, Creation Date
+2. _At which time slot **more orderings** are made?_ ORDER table: ID, Creation Date **Works on it: Orhan**
 
     2.1. _How many items are ordered in this time slot?_ Number of items per order. Get mean and std.
   
