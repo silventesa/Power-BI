@@ -30,7 +30,10 @@ Here, it could be interesting to see if the moments with the highest amount of o
   
     3.2 _What is the price of the items ordered at this time slot?_ Get mean of item price.
 
-Questions from 1 to 3 can be analysed from a **top-down approach**: going from general to cities (and, if relevant, to streets).
+Questions from 1 to 3 can be analysed from a **top-down approach**, so we'll have data for:
+- global/ general
+- cities
+- if relevant, streets.
 
 ##### STEP 2
 
