@@ -10,7 +10,7 @@ Our reports will target the platform holders, who become then our clients. The t
 
 When relevant, we aim to follow a top-down approach (from more general to more specific targets)
 
-1. An optimal business expansion
+#### 1. An optimal business expansion
 
 To ensure an optimal business expansion, we need to characterize:
 
@@ -26,6 +26,9 @@ To ensure an optimal business expansion, we need to characterize:
    * Prices of total orderings and most ordered items
 
 - Profile of customers
+
+
+#### 2. A better service to clients
 
 ___
 
