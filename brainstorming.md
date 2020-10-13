@@ -1,4 +1,35 @@
-## Brainstorming
+# Brainstormings
+
+## First meeting: results
+
+Our reports will target the platform holders, who become then our clients. The two main purposes of our work (so far) would be to provide:
+
+- AN OPTIMAL BUSINESS EXPANSION 
+
+- A BETTER SERVICE TO CLIENTS (here, restaurants)
+
+When relevant, we aim to follow a top-down approach (from more general to more specific targets)
+
+1. An optimal business expansion
+
+To ensure an optimal business expansion, we need to characterize:
+
+- Period of greatest growth
+   * Which is the period in which more users (restaurants and customers) joined the company (creation dates)? 
+   * Which is the period during which more orderings were made?
+
+- Cities where more orderings are made
+   * Number of restaurants
+   * Streets where more orderings are made
+   
+- Restaurants where more orderings are made
+   * Prices of total orderings and most ordered items
+
+- Profile of customers
+
+___
+
+## Draft 
 
 ### TABLES
 
