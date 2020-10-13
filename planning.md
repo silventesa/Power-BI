@@ -1,5 +1,30 @@
 # Accenture Use Case: PLANNING 
 
+
+## Tuesday 13
+
+#### Organisation
+
+After the brainstorming session, we settle 1 collective objective and 3 individual tasks:
+
+- **Collective objective**: come up with specific questions for the main, broad questions that will lead our analyses and reports (see [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
+- **Individual tasks**:
+  * **Opap's**: Calendar and map functionalities for datetime and location
+  * **Orhan**: Explore the data (variable values (quantitative and qualitative), first groupings, first descriptions, etc.)
+  * **Sara**: Update files after the meeting + explore data visualization options (Draw.io)
+
+#### Initial plan
+
+- Comment the summary of Monday and make decisions about this.
+- Brainstorming session (see the README file); Opap's could share his screen so we can do a collective brainstorming (following a nice recommendation from Xavier).
+- Comment on number of tasks and their distribution among group members
+
+After our meeting, we should have settled:
+
+- Who? What? Actions?
+- Work distribtuion
+
+
 ## Monday 12
 
 - Accenture's presentation
@@ -14,13 +39,3 @@ Power BI has a desktop and an online version that differ in the functionalities 
 4. Then it is possible for them to get the data from this shared dataset by selecting "Build one existing datasets - Published datasets".
 5. It may also be possible to share whole workspaces, which could be useful to share reports as well. If the only tools we use are those to create reports, it may be enough. 
 
-## Tuesday 13
-
-- Comment the summary of Monday and make decisions about this.
-- Brainstorming session (see the README file); Opap's could share his screen so we can do a collective brainstorming (following a nice recommendation from Xavier).
-- Comment on number of tasks and their distribution among group members
-
-After this meeting, we should have settled:
-
-- Who? What? Actions?
-- Work distribtuion
