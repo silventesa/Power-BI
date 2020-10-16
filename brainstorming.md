@@ -52,12 +52,10 @@ Now that we have the information about the best moment for orderings, we could g
 
 **Restaurants**
 
-- Characterise restaurants: items that are more ordered and price.
-- Identify the restaurants that are closed in the **gold time slot**.
-
+- Characterise restaurants: items that are more ordered and price. Works on it: **Orhan**
 ___
 
-## First brainstorming
+## Day 2_First brainstorming
 
 * Client: Platform holders. 
 	What would be the main targets they would be interested in?
@@ -104,7 +102,7 @@ Orhan's brainstorming
 
 ___
 
-## Draft 
+## Day1_Draft: example of questions
 
 ### TABLES
 
