@@ -21,6 +21,8 @@ Three learners and collaborators elaborated the project contained in this repo: 
 
 The data report can be found in the [fotg_powerBI file](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf).
 
+![Alt Text](https://github.com/silventesa/accenture_usecase/blob/master/team_assets/Report1.gif)
+
 ### Dataset
 
 This dataset belongs to the (fictitious) **Food On The Go** company, an online meal ordering service. 
