@@ -23,11 +23,11 @@ The data report can be found in the [fotg_powerBI file](https://github.com/silve
 
 ### Dataset
 
-This dataset belongs to the (fictitious) **Food On The Go** company, an online meal ordering service.
+This dataset belongs to the (fictitious) **Food On The Go** company, an online meal ordering service. 
 
 The data included information about the orderings made by costumers during the months of April and May 2017.
 
-The dataset contains 7 csv files upon which a series of data relationships (view [this document](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf) for more details) were settled.
+The dataset contains 7 csv files upon which a series of data relationships (view [this document](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf) for more details) were settled. The folder contains two versions, the original one (raw, provided by Accenture) and the modified one (cleaned, with which the report was performed). 
 
 ## Team assets
 
