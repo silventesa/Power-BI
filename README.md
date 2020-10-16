@@ -2,13 +2,15 @@
 
 ## What is this?
 
-A data report about the flow of orderings across day times in the online food ordering service **Food On The Go (FOTG)**.
+A data report about the flow of orderings across day times in the online food ordering service **Food On The Go (FOTG)**. The data report can be found in the [fotg_powerBI file](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf).
 
 ## Where does it come from?
 
 This project was carried out in October 2020 in the context of the course Bouman 2.22 organized by BeCode, a network of inclusive coding bootcamps.
 
 As data science learners, we were assigned a **use case** from the **Accenture** company, which provided us with a dataset belonging to the (fictitious) online food ordering platform FOTG. 
+
+Using [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) was a requierement of this project.
 
 ## Who's there?
 
