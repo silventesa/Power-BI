@@ -15,7 +15,7 @@ E.g., prevent moments of saturation and eventual website downtimes.
 
 ___
 
-# Tasks identification and distribution
+# Organisation: tasks identification and distribution
 
 - [x] Explore the data quality and fix eventual problems. Works on it: **Sara**
 
