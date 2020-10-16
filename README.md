@@ -16,7 +16,7 @@ Three learners and collaborators elaborated the project contained in this repo: 
 
 ## Dataset
 
-This dataset belongs to the (fictitious) **Food On The Go** company, which provides online meal ordering services. 
+This dataset belongs to the (fictitious) **Food On The Go** company, an online meal ordering service.
 
 The datasets contain information about 3 big and interrelated blocks, namely the **restaurants** delivering food, the **orderings** and the **customers**.
 
