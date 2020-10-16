@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A data report about the flow of orderings across day times in the online food ordering service **Food On The Go (FOTG)**
+A data report about the flow of orderings across day times in the online food ordering service **Food On The Go (FOTG)**.
 
 ## Where does it come from?
 
