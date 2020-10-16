@@ -1,16 +1,15 @@
-# Design of the FOOD ON THE GO PROJECT
+# Design of the FOOD ON THE GO project
 
-## What is our report about? 
+#### What is our report about? 
 Flow of food orderings across time slots.
 
-## Who are our clients?
-
+#### Who are our clients?
 - [ ] Restaurants
 - [ ] Customers
 - [x] Food on the go platform holders
 
 
-## Actions? 
+#### Actions? 
 E.g., prevent moments of saturation and eventual website downtimes.
 
 ___
@@ -28,29 +27,33 @@ ___
    - [x] Calendar and map functionalities for datetime and location. Works on it: **Opap's**
   
 
-- [x] List of questions and analysis. See [brainstorming](https://github.com/silventesa/accenture_usecase/blob/master/brainstorming.md)!
+- [x] List of questions and analysis. 
 
-   - [x] STEP 1
-    - [x] Q1: Which are the days (Mo-Sun) with highest amount of orderings? Works on it: **Opap's**
+   We use a **top-down approach** through the display of an option with which **data can be filtered by time** (days, weeks, hours) and **location** (cities, streets, restaurants).
 
-    - [x] Q2: At which time slot more orderings are made? Works on it: **Orhan**
+   - [x] **STEP 1**
+      - [x] Q1: Which are the days (Mo-Sun) with highest amount of orderings? Works on it: **Opap's**
+
+      - [x] Q2: At which time slot more orderings are made? Works on it: **Orhan**
     
-      - [x] Q2.1. How many items are ordered in this time slot? Number of items per order. Get mean and std.
+         - [x] Q2.1. How many items are ordered in this time slot? Number of items per order. Get mean and std.
 
-      - [x] Q2.2. What is the total price of orderings made at this time slot? Total price of ordering. Get mean and std.
+         - [x] Q2.2. What is the total price of orderings made at this time slot? Total price of ordering. Get mean and std.
 
-    Questions from 1 to 2 can be analysed from a top-down approach, so we'll have data for:
+      Questions from 1 to 2 can be analysed from a top-down approach, so we'll have data for:
 
-    - global/ general
-    - cities
-    - if relevant, streets.
+        - global/ general
+        - cities
+        - if relevant, streets.
 
-   - [x] STEP 2
-   Now that we have the information about the best moment for orderings, we could go further into Customers and Restaurant characteristics.
+   - [x] **STEP 2**
+   
+      Now that we have the information about the best moment for orderings, we could go further into Customers and Restaurant characteristics.
 
-    - [x] Customers: Characterise curstomers in this gold time slot: age, gender, (language?), allergies (quantity and severity). Works on it: **Opap's**
+      - [x] Customers: Characterise curstomers in this gold time slot: age, gender, (language?), allergies (quantity and severity). Works on it: **Opap's**
 
-    <s>- [ ] Restaurants: Characterise restaurants: items that are more ordered and price. Works on it: Orhan </s> **Future work**
+      - [ ] <s> Restaurants: Characterise restaurants: items that are more ordered and price. Works on it: Orhan </s> **Future work**
+
 
 - [x] Decide a data mode visualization (e.g., speciific kind of graph/chart/table) for each answer to each question. Works on it: **all**
 
