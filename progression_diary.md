@@ -1,14 +1,18 @@
 # Project progression diary
 
 
-## Day 4_Presentation
+## 15/10/20
 
-## Day 3_Progression
+Presentation of the report to Accenture.
+___
+## 14/10/20
 
 Tasks are distributed and we keep progressing.
 ___
 
-## Day 2_First brainstorming
+## 13/10/20
+
+### First brainstorming
 
 * Client: Platform holders. 
 	What would be the main targets they would be interested in?
@@ -55,21 +59,23 @@ Orhan's brainstorming
 
 ___
 
-## Day1_Draft: example of questions
+## 12/10/20
 
-### TABLES
+### Draft: example of questions
 
-#### T1: RESTAURANTS
+#### TABLES
 
-#### T2: ORDER
+##### T1: RESTAURANTS
 
-##### Getting know restaurants
+##### T2: ORDER
+
+###### Getting know restaurants
 
 1. _Insights on the ordering rates by city_
 2. _Insights on the ordering rates by opening-hours_
 
 
-##### Getting know customers
+###### Getting know customers
 1. _Number of ordering per customers_
    
     - Relationship between customers and ordering items (e.g., do those that consume the most share similar tastes?)
@@ -96,12 +102,12 @@ What is better (= more economically wortwhile), a customer with more commands bu
 
 - Check for restaurants or order table names containing "vege" or "vegg" (vegetarian, veggie, etc.) and relate it with customer profiles.
 
-#### T4: ORDER ITEMS
+##### T4: ORDER ITEMS
 
 
-#### T5: CUSTOMER
+##### T5: CUSTOMER
 
-#### T6: CUSTOMER ALLERGIES
+##### T6: CUSTOMER ALLERGIES
 
 1. Gradient of allergies and number of orderings
     - Do customers with allergies order less than customers with allergies? (allergies vs. non-allergies)
