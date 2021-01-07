@@ -1,15 +1,10 @@
-# _FOOD ON THE GO_ PROJECT
-
-## What is this?
-
-A data report about the flow of orderings across day times in the online food ordering service **Food On The Go (FOTG)**. 
-## Where does it come from?
+# Power BI project
 
 This project was carried out in October 2020 in the context of the course Bouman 2.22 organized by BeCode, a network of inclusive coding bootcamps.
 
-As data science learners, we were assigned a **use case** from the **Accenture** company, which provided us with a dataset belonging to the (fictitious) online food ordering platform FOTG. 
+As data science learners, we were assigned a **use case** from the **Accenture** company, which provided us with a dataset belonging to the (fictitious) online food ordering platform Food On The Go (FOTG). 
 
-Using [Microsoft Power BI](https://powerbi.microsoft.com/en-us/) was a requierement of this project.
+The main goal of the project was to build a data report about FOTG's flow of orderings across day times by using [Microsoft Power BI](https://powerbi.microsoft.com/en-us/).
 
 ## Who's there?
 
