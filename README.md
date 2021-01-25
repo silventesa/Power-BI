@@ -14,7 +14,7 @@ The data report can be found [here](https://github.com/silventesa/accenture_usec
 
 Preview:
 
-![Alt Text](https://github.com/silventesa/accenture_usecase/blob/master/team_assets/Report1.gif)
+![Alt Text](https://github.com/silventesa/accenture_usecase/blob/master/assets/Report1.gif)
 
 ### Dataset
 
