@@ -10,7 +10,7 @@ The data report provides valuable, visual-friendly information about FOTG's flow
 
 ### Data report
 
-The data report can be found in the [fotg_powerBI file](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf).
+The data report can be found [here](https://github.com/silventesa/accenture_usecase/blob/master/fotg_powerBI.pdf).
 
 ![Alt Text](https://github.com/silventesa/accenture_usecase/blob/master/team_assets/Report1.gif)
 
